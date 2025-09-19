@@ -55,3 +55,13 @@ pip install opencv-python numpy
 - Câmera não detectada: Verifique permissões do sistema
 - Baixa precisão: Melhore a iluminação do ambiente
 - Múltiplos rostos: Certifique-se de estar sozinho na frente da câmera
+<br>
+
+## 🧾 Nota Ética sobre Uso de Dados Faciais
+
+Este projeto utiliza reconhecimento facial com Haarcascade **exclusivamente para fins educacionais e de demonstração técnica**.  
+
+- Nenhuma imagem ou dado biométrico é armazenado, compartilhado ou utilizado para identificar pessoas reais.  
+- O reconhecimento facial aqui implementado não deve ser usado em ambientes de produção que envolvam segurança, autenticação sensível ou monitoramento de indivíduos.  
+- Qualquer aplicação prática desta tecnologia deve respeitar princípios de **privacidade**, **consentimento informado** e estar em conformidade com legislações como a **LGPD** (Lei Geral de Proteção de Dados) e o **GDPR** (Regulamento Europeu de Proteção de Dados).  
+- Este projeto **não endossa** o uso indevido de dados biométricos e reforça a importância de considerar os impactos éticos e sociais relacionados ao reconhecimento facial.  
